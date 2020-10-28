@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+<defs>
+    <style><![CDATA[
+        @font-face {
+            font-family: 'Bahnschrift';
+            src: local('Bahnschrift') url('../Fonts/bahnschrift.ttf');
+        }
+    ]]></style>
+</defs>
+
+<path d="M 1,24 Q 1,20 5,20 L 95,20 Q 99,20 99,24 L 99,76 Q 99,80 95,80 L 5,80 Q 1,80 1,76 L 1,24"
+    fill="#ffffff" stroke="#888" stroke-width="1"/>
+<text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Bahnschrift, sans-serif" font-size="40pt">80</text>
+</svg>
